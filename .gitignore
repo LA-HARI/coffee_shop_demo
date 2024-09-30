@@ -1,0 +1,17 @@
+
+# Ignore system files and directories
+AppData/
+.vscode/
+*.bin
+*.log
+*.tmp
+
+# Ignore Windows system directories
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+Pictures/
+Videos/
